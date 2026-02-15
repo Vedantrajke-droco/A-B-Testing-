@@ -1,0 +1,8 @@
+A/B Testing Result
+-------------------
+Control Conversion Rate: 0.35
+Test Conversion Rate: 0.7
+P-Value: 0.026628913025520277
+Decision: Test group is significantly better.
+95% Confidence Interval: (0.05258128045322685, 0.6474187195467731)
+The test group showed a higher conversion rate compared to the control group. The p-value was less than 0.05, indicating statistically significant results. Therefore, the new version should be deployed to all users to improve business performance.
